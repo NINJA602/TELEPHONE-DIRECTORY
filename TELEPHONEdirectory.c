@@ -24,7 +24,7 @@ void main()
     char password[]="tele",enp[50],lqa[50],adminp[]="phone",adpp[50],adpr[50];
     struct T p,q;
     printf("\n\n\n\n\n");
-    printf("\n\t\t\t\t\t\t\t\t\t...........WELCOME TO SHRABAN's TELEPHONE DIRECTORY...........");
+    printf("\n\t\t\t\t\t\t\t\t\t........... !! WELCOME TO SHRABAN's TELEPHONE DIRECTORY...........");
     printf("\n\t\t\t\t\t\t\t\t\t                            (V 1.0)                             ");
     printf("\n\t\t\t\t\t\t\t\t\t--------------------------------------------------------------");
     printf("\n\t\t\t\t\t\t\t\t\t--------------------------------------------------------------");
